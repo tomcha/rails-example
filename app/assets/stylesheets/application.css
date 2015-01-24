@@ -11,5 +11,7 @@
  * file per style scope.
  *
  *
+ *= require yeti/loader
+ *= require yeti/bootswatch
  *= require_self
  */
